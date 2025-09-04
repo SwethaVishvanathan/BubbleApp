@@ -1,0 +1,14 @@
+body {
+      text-align: center;
+      margin-top: 20px;
+    }
+    canvas {
+      border: 1px solid black;
+      background: #f9f9f9;
+    }
+    button {
+      margin-top: 15px;
+      padding: 8px 16px;
+      font-size: 16px;
+      cursor: pointer;
+    }
